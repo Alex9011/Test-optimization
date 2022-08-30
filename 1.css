@@ -812,7 +812,7 @@ footer {
         padding-top: 20px;
         margin-left: 170px;
 
-        
+
     }
 
     .indent {
@@ -846,6 +846,16 @@ footer {
         color: #1B1A1A;
     }
 
+    /* Background1 */
+    #background-one {
+        background-size: cover;
+        width: 480px;
+        height: 600px;
+        background-image: url("Background1.jpg");
+        justify-content: flex-end;
+        display: flex;
+        padding-right: 75px;
+    }
 
 
 
